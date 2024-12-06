@@ -1,11 +1,11 @@
+var myVar = "Hello, world!";
+
 # Tesssssssssssssssssssssssssssssssst
 ## Tessssssssssssssssssssssssssssssst
 ### Tesssssssssssssssssssssssssssssst
 #### Tessssssssssssssssssssssssssssst
 ##### Tesssssssssssssssssssssssssssst
-###### Tessssssssssssssssssssssssssst
-
-var myVar = 42;
+###### Tessssssssssssssssssssssssssst
 
 Tessssting thingssssss
 
