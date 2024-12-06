@@ -1,12 +1,1 @@
 var myVar = "Hello, world!";
-
-# Tesssssssssssssssssssssssssssssssst
-## Tessssssssssssssssssssssssssssssst
-### Tesssssssssssssssssssssssssssssst
-#### Tessssssssssssssssssssssssssssst
-##### Tesssssssssssssssssssssssssssst
-###### Tessssssssssssssssssssssssssst
-
-Tessssting thingssssss
-
-![Image of a red button With the text "Test" on a keyboard](https://www.groeoenlandhof.de/wp-content/uploads/2024/05/test.jpg)
