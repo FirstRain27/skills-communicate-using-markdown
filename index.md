@@ -5,7 +5,7 @@
 ##### Tesssssssssssssssssssssssssssst
 ###### Tessssssssssssssssssssssssssst
 
-### var myVar = "Hello, world!";
+var myVar = 42;
 
 Tessssting thingssssss
 
